@@ -1,0 +1,10 @@
+//Create a reusable label normalizer for JavaScript QA utilities.
+
+ normalizeJsBasicsLabel(" Login Button ")
+
+function normalizeJsBasicsLabel(label) {
+    return label.trim().toLowerCase();
+    console.log(normalizeJsBasicsLabel(" Login Button ")); // Output: "login button"
+}       
+
+
