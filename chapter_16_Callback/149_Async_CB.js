@@ -5,4 +5,3 @@ setTimeout(function () {
 }, 2000);
 
 console.log("Test 3: Moving to next last");
-
